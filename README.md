@@ -1,6 +1,8 @@
 # js_exercise_shop
 
-Урок по JavaScript
+Задание по JavaScript
+
+Макет online магазина Lucky Vaper
 
 При открытии вкладки "каталог" загружается
 объект catalog, в котором содержится список
